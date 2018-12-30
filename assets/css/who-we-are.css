@@ -1,0 +1,88 @@
+.whoweare__jumbotron {
+  background: url(../img/jumbotron-2.jpg);
+  text-align: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position-y: -200px; */
+}
+
+.humano__detailed__aboutus {
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+
+.humano__detailed__aboutus h2 {
+  font-family: "Oswald";
+}
+
+.humano__short__intro h2 {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.humano__short__intro p {
+  font-family: "Oswald";
+  font-size: 20px;
+  letter-spacing: 0.4px;
+}
+
+
+.humano__quote {
+  text-align: center !important;
+  padding-top: 20px;
+}
+
+.quote__source h3 {
+  font-family: "Oswald";
+  text-decoration: underline;
+  margin-bottom: 30px;
+}
+
+.quote__text h1 {
+  font-family: "Oswald" !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 53px;
+}
+
+.the__team {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: "Oswald";
+}
+
+.the__team  h1{
+  /* font-family: "Oswald"; */
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.member__image {
+  border-radius: 50% !important;
+  /* border: 0.5px solid black; */
+  height: 220px;
+  width: 220px;
+  margin-bottom: 10px;
+}
+
+.the__team ul {
+  margin-top: -10px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.the__team li {
+  display: inline-block;
+  margin: 5px;
+  /* border: 1px solid red; */
+}
+
+.the__team  li a {
+  padding: 10px 20px !important;
+  /* border: 1px solid green; */
+}
+
+.the__team li a i {
+  font-size: 20px !important;
+}
