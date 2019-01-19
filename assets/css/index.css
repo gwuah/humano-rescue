@@ -197,7 +197,7 @@ footer li {
 .pre__footer {
   padding: 30px 40px 20px 40px;
   background-color: #7b56c0;
-  font-family: "Oswald";
+  /* font-family: "Oswald"; */
   color: white !important;
 }
 
@@ -229,4 +229,17 @@ footer li {
 
 .pre__footer .col-md-4 h5 {
   text-transform: uppercase;
+}
+
+
+/* media queries */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 600px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    .summary__container .col__sm {
+      margin-bottom: 30px;
+      /* border: 2px solid red; */
+    }
 }

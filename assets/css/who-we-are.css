@@ -1,6 +1,6 @@
 .whoweare__jumbotron {
   background: url(../img/jumbotron-2.jpg);
-  text-align: left;
+  text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   /* background-position-y: -200px; */
@@ -21,7 +21,7 @@
 }
 
 .humano__short__intro p {
-  font-family: "Oswald";
+  /* font-family: "Oswald"; */
   font-size: 20px;
   letter-spacing: 0.4px;
 }
