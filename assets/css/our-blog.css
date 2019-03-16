@@ -26,8 +26,15 @@
 } */
 
 #title__container {
-  text-align: center;
+  text-align: center; }
+
+#center__text {
+  text-align: center; 
+  margin: 0 auto;
+  padding: 20px;
 }
+
+
 
 .row {
   /* border: 2px solid red; */
